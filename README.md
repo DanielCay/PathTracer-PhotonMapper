@@ -1,2 +1,2 @@
 # PathTracer-PhotonMapper
-Algoritmos de Path Tracing y Photon Mapping desarrollados para la asignatura de Informática Gráfica, Universidad de Zaragoza
+Algoritmos de Path Tracing y Photon Mapping. Proyecto para la asignatura Informática Gráfica, Universidad de Zaragoza
